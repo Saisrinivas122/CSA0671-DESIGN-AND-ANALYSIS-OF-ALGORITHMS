@@ -47,6 +47,6 @@ list.
 35. Write a program to perform graph coloring problem using backtracking.
 36. Write a program to compute container loader Problem.
 37. Write a program to generate the list of all factor for n value.
-38.Write a program to perform Assignment problem using branch and bound.
+38. Write a program to perform Assignment problem using branch and bound.
 39. Write a program for to perform liner search.
-40.Write a program to find out Hamiltonian circuit Using backtracking method.
+40. Write a program to find out Hamiltonian circuit Using backtracking method.
